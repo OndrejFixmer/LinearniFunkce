@@ -1,2 +1,2 @@
 # LinearniFunkce
-Linear Functions
+Linear Function
